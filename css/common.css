@@ -133,6 +133,10 @@ button {
   border: 1px solid #000;
 }
 
+.task-3-input:active {
+  border: 1px solid #808080;
+}
+
 .task-3-title {
   font-weight: 600;
   font-size: 24px;
@@ -169,6 +173,10 @@ button {
 
 .task-4-input:hover {
   border: 1px solid #000;
+}
+
+.task-4-input:active {
+  border: 1px solid #808080;
 }
 
 .task-4-btn {
